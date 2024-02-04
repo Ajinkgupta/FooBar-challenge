@@ -19,3 +19,6 @@ Input:Solution.solution('210022', 3)Output:    3
 Input:solution.solution('1211', 10)Output:    1
 
 Input:solution.solution('210022', 3)Output:    3foobar:~/hey-i-already-did-that guptaajink72$ cat readme.txt
+
+![image](https://github.com/Ajinkgupta/FooBar-challenge/assets/76146259/9c688d5a-bc29-4df1-850a-7a692b0b0db5)
+
